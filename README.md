@@ -1,1 +1,7 @@
 # ONLINE-SHOPPING-SYSTEM-OOP-PROJECT-
+Hello
+This is my Semester Project of OBJECT ORIENTED PROGRAMMING in C++. I have made Online Shopping System using OOP core concepts ( classes, Structures, Encpsulation, Inheritance, Abstraction, Polymorphisim and many more). 
+This project will allow user to shop online just like other platforms like DARAZ, AMAZON etc.
+Here user can register himself by logging in bys using his username and password.
+User have choice of what he wants to shop like Fashion, Education material, Automobiles, Electronics. The user will enter the ID number of the product which he wants to order and quantity then he will enter username and address where he wants product to be delivered. 
+Then user will choose the payment method and delivery option(Urgent or Normal) then user will checkout after the order is placed.
